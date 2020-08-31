@@ -1,0 +1,10 @@
+Unit Test       単体テスト       单体测试
+Interface Test      結合テスト       结合测试
+Program Test        総合テスト       综合测试
+storage     ストレージ       存储
+scope       スコープ        
+migration       マイグレーション        迁移
+server      サーバー        服务器
+maintaince      メンテナンス      维护/运维
+coverage        カバレッジ       覆盖率
+coorperate      連携      配合合作
